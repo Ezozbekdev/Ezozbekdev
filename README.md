@@ -1,4 +1,4 @@
-I Ezozbek this is my git hub account
+I'am Ezozbek this is my git hub account
 <!---
 Ezozbekdev/Ezozbekdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
